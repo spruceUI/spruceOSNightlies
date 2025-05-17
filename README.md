@@ -19,7 +19,7 @@ Interested in being a tester? To provide feedback and speak with the development
 - **Incompatible Changes**: Backward compatibility is not guaranteed between nightly versions.
 - **Security Risks**: Nightly builds have not been fully tested for vulnerabilities or exploits.
 
-## Installation
+## ⚙️ Installation
 
 1) Read the warnings on this page!
 2) Format a fresh, name brand SD card to FAT32.
