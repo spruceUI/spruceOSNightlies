@@ -34,6 +34,8 @@ We appreciate your feedback and bug reports! However, please be aware of the fol
 
 - Contributions targeting nightly/development builds should expect rapid iteration and potential rework.
 - Issues unrelated to nightly builds should be reported in our main repository issue tracker with a clear description telling us it is for the **Development** branch.
+- Interested in being a tester? To provide feedback and speak with the development team please join our Discord server [here](https://discord.gg/KjR5uMQQt9)
+
 
 ## 📖 Documentation
 Documentation will lag behind or be non existant for nightly builds.
