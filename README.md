@@ -6,7 +6,8 @@ This repository is automatically generated as part of our nightly builds. It con
 
 As of May, 2025 these build are targeted towards the Miyoo A30, Miyoo Flip, Trimui Brick and Smart Pro. The same SD card can be used for all of these devices, simply swap the card over and it will work! 
 
-Interested in being a tester? To provide feedback and speak with the development team please join our Discord server [here](https://discord.gg/KjR5uMQQt9)
+Interested in being a tester? To provide feedback and speak with the development team please join our Discord server [![spruce logo](https://github.com/user-attachments/assets/ee3ce8fa-87f2-455a-adf6-c071f7ce4e7a)
+](https://discord.gg/KjR5uMQQt9)
 
 **MIYOO FLIP USERS PLEASE USE [THIS](https://github.com/spruceUI/spruceOS/releases/download/flip0.0/miyoo355_fw.img) FIRMWARE**
 
