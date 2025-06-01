@@ -8,6 +8,10 @@ As of May, 2025 these build are targeted towards the Miyoo A30, Miyoo Flip, Trim
 
 Interested in being a tester? To provide feedback and speak with the development team please join our Discord server [here](https://discord.gg/KjR5uMQQt9)
 
+**MIYOO FLIP USERS PLEASE USE [THIS](https://github.com/spruceUI/spruceOS/releases/download/flip0.0/miyoo355_fw.img) FIRMWARE**
+
+To update FW drop the img file onto the root of a fat32 card (blank is best!) and boot your device. it will show a rocket ship and reboot when it is done. 
+
 ## ⚠️ Important Notices
 
 - **Unstable Builds**: This repository contains **work-in-progress** code. Features may be incomplete, change unexpectedly, or break entirely.
