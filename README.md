@@ -30,7 +30,7 @@ To update FW paste the img file onto the root of a fat32 card (blank is best!) a
 3) Download the .7z from the most  recent “release” on the this repo.
 4) Extract the .7z onto a folder on your computer.
 5) Copy and paste ALL files from this folder directly to the root of your fresh SD card. Make sure to get the hidden `.tmp_update` folder!
-6) Boot your device with this SD card inserted into the righthand slot of your Flip.
+6) Boot your device with this SD card inserted into the righthand slot if your using a Flip.
 7) Give it a few minutes and let it do its thing! When the installation is complete, you will land in spruceUI.
 
 ## 🚡 Updating
@@ -47,7 +47,7 @@ Manual:
 2) Download the .7z from the most  recent “release” on the this repo.
 3) Extract the .7z onto a folder on your computer.
 4) Copy and paste ALL files from this folder directly to the root of your fresh SD card. Make sure to get the hidden `.tmp_update` folder!
-5) Boot your device with this SD card inserted into the righthand slot of your Flip.
+5) Boot your device with this SD card inserted into the righthand slot if your using a Flip.
 6) Give it a few minutes and let it do its thing! When the installation is complete, you will land in spruceUI.
 
 ## 🤝 Contribution
