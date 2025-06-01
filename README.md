@@ -33,6 +33,23 @@ To update FW paste the img file onto the root of a fat32 card (blank is best!) a
 6) Boot your device with this SD card inserted into the righthand slot of your Flip.
 7) Give it a few minutes and let it do its thing! When the installation is complete, you will land in spruceUI.
 
+## 🚡 Updating
+
+There are a couple of ways to update, OTA, EZ, and manually.
+
+OTA: Connect to wifi and run the updater app, if your wifi connection holds on this is all you need to do! 
+
+EZ: Download the latest Nightly Release 7z and paste it directly onto the root of your SD card WITHOUT unzipping it. An EZupdater app will show up on your device, click on it and that is all you need to do!
+
+Manual:
+
+1) Delete everything EXCEPT the `Roms` `BIOS` `Saves` and `Persistent` folders from your SD card.
+2) Download the .7z from the most  recent “release” on the this repo.
+3) Extract the .7z onto a folder on your computer.
+4) Copy and paste ALL files from this folder directly to the root of your fresh SD card. Make sure to get the hidden `.tmp_update` folder!
+5) Boot your device with this SD card inserted into the righthand slot of your Flip.
+6) Give it a few minutes and let it do its thing! When the installation is complete, you will land in spruceUI.
+
 ## 🤝 Contribution
 We appreciate your feedback and bug reports! However, please be aware of the following:
 
