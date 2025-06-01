@@ -20,7 +20,7 @@ To update FW paste the img file onto the root of a fat32 card (blank is best!) a
 - **Not backwards compatible**: Due to the nature of WIP builds, you will likely need to do a fresh install of the eventual public stable release. Simply using the OTA will likely break things. 
 ## 🧪 Experimental Warning
 - **Data Loss**: Using this software may result in corrupted data or loss of existing configs.
-- **Incompatible Changes**: Backward compatibility is not guaranteed between nightly versions.
+- **Incompatible Changes**: Backward AND Forward compatibility is not guaranteed between nightly versions. Manual updates are occasionally required.
 - **Security Risks**: Nightly builds have not been fully tested for vulnerabilities or exploits.
 
 ## ⚙️ Installation
