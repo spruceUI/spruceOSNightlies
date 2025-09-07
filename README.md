@@ -1,5 +1,11 @@
 # SpruceUI Nightly Repository
 
+# Please note:
+
+**The nightly version does not have an official wiki, the main spruce wiki is specifically for the a30.**
+
+**There are often small differences such as pico8 needing the 'pico_64' file as well.**
+
 🚨 **Warning** 🚨
 
 This repository is automatically generated as part of our nightly builds. It contains experimental and potentially unstable versions of our software.
@@ -69,3 +75,4 @@ Nightly builds help us:
 - Validate new features in real-world scenarios.
 - Get early feedback from developers and power users.
 - Accelerate the development cycle of our software.
+
