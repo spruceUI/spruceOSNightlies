@@ -54,7 +54,7 @@ EZ: Download the latest Nightly Release 7z and paste it directly onto the root o
 
 Manual:
 
-1) Delete everything EXCEPT the `Roms` `BIOS` `Saves` and `Persistent` folders from your SD card.
+1) Delete everything EXCEPT the `Roms` `BIOS` `Saves` `Collections` and `Persistent` folders from your SD card.
 2) Download the .7z from the most  recent “release” on the this repo.
 3) Extract the .7z onto a folder on your computer.
 4) Copy and paste ALL files from this folder directly to the root of your fresh SD card. Make sure to get the hidden `.tmp_update` folder!
@@ -77,6 +77,7 @@ Nightly builds help us:
 - Validate new features in real-world scenarios.
 - Get early feedback from developers and power users.
 - Accelerate the development cycle of our software.
+
 
 
 
