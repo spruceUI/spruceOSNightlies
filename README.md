@@ -19,7 +19,7 @@ Interested in being a tester? To provide feedback and speak with the development
 
 **MIYOO FLIP USERS PLEASE USE [THIS](https://github.com/spruceUI/spruceOS/releases/download/flip0.0/miyoo355_fw.img) FIRMWARE**
 
-**IMPORTANT UPDATE Sep. 19 2025: We have updated the suggested Miyoo FW version! It is now the same as that used by [CarlOS](https://github.com/CarlosPix/CarlOS)
+**IMPORTANT UPDATE Sep. 19 2025: We have updated the suggested Miyoo FW version! It is now the same as that used by [CarlOS](https://github.com/CarlosPix/CarlOS)**
 
 To update FW paste the img file onto the root of a fat32 card (blank is best!) and boot your device. It will show a rocket ship and reboot when it is done. 
 
@@ -77,5 +77,6 @@ Nightly builds help us:
 - Validate new features in real-world scenarios.
 - Get early feedback from developers and power users.
 - Accelerate the development cycle of our software.
+
 
 
