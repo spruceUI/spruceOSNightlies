@@ -1,5 +1,9 @@
 # SpruceUI Nightly Repository
 
+**IMPORTANT UPDATE FOR DEVICES SUPPORTED**
+
+We are currently focusing on the Flip and A30 support for spruce 4.0 and therefore the trimui device development has hit a pause.
+
 # Please note:
 
 **The nightly version does not have an official wiki, the main spruce wiki is specifically for the a30.**
@@ -77,6 +81,7 @@ Nightly builds help us:
 - Validate new features in real-world scenarios.
 - Get early feedback from developers and power users.
 - Accelerate the development cycle of our software.
+
 
 
 
