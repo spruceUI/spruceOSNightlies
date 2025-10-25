@@ -27,6 +27,8 @@ Interested in being a tester? To provide feedback and speak with the development
 
 To update FW paste the img file onto the root of a fat32 card (blank is best!) and boot your device. It will show a rocket ship and reboot when it is done. 
 
+Stock will show `20250627233124` listed unded "Device Info" in the Settings tab.
+
 ## ⚠️ Important Notices
 
 - **Unstable Builds**: This repository contains **work-in-progress** code. Features may be incomplete, change unexpectedly, or break entirely.
@@ -81,6 +83,7 @@ Nightly builds help us:
 - Validate new features in real-world scenarios.
 - Get early feedback from developers and power users.
 - Accelerate the development cycle of our software.
+
 
 
 
