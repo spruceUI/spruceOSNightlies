@@ -33,7 +33,7 @@ Interested in being a tester? To provide feedback and speak with the development
 
 **If using your normal card you MUST DELETE the .img file off the card after the update.**
 
-Stock will show `20250627233124` listed unded "Device Info" in the Settings tab.
+Stock will show `20250627233124` listed unded "Device Info" in the Settings tab when booted into stock.
 
 ## ⚠️ Important Notices
 
@@ -89,6 +89,7 @@ Nightly builds help us:
 - Validate new features in real-world scenarios.
 - Get early feedback from developers and power users.
 - Accelerate the development cycle of our software.
+
 
 
 
