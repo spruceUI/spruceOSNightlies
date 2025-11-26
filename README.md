@@ -51,7 +51,7 @@ Stock will show `20250627233124` listed unded "Device Info" in the Settings tab.
 1) Read the warnings on this page!
 2) Format a fresh, name brand SD card to FAT32.
 3) Download the .7z from the most  recent [release](https://github.com/spruceUI/spruceOSNightlies/releases) on the this repo.
-4) Extract the .7z onto a folder on your computer.
+4) Extract the .7z onto a folder on your computer. Fore best results use the program 7zip found here https://www.7-zip.org/.
 5) Copy and paste ALL files from this folder directly to the root of your fresh SD card. Make sure to get the hidden `.tmp_update` folder!
 6) Boot your device with this SD card inserted into the righthand slot if your using a Flip.
 7) Give it a few minutes and let it do its thing! When the installation is complete, you will land in spruceUI.
@@ -89,6 +89,7 @@ Nightly builds help us:
 - Validate new features in real-world scenarios.
 - Get early feedback from developers and power users.
 - Accelerate the development cycle of our software.
+
 
 
 
