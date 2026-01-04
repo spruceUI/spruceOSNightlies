@@ -2,7 +2,7 @@
 
 **IMPORTANT UPDATE FOR DEVICES SUPPORTED**
 
-We are currently focusing on the Flip and A30 support for spruce 4.0 and therefore the trimui device development has hit a pause.
+We are currently focusing on the Flip and A30 support for spruce 4.0 but wecare in active development for the Trimui Smart Pro, Brick and the new Smart Pro S! 
 
 # Please note:
 
@@ -89,6 +89,7 @@ Nightly builds help us:
 - Validate new features in real-world scenarios.
 - Get early feedback from developers and power users.
 - Accelerate the development cycle of our software.
+
 
 
 
