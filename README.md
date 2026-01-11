@@ -2,11 +2,11 @@
 
 **IMPORTANT UPDATE FOR DEVICES SUPPORTED**
 
-We are currently focusing on the Flip and A30 support for spruce 4.0 but wecare in active development for the Trimui Smart Pro, Brick and the new Smart Pro S! 
+We are currently focusing on the Flip and A30 support for spruce 4.0 but wecare in active development for the Miyoo Mini Flip, Trimui Smart Pro, Brick and the new Smart Pro S! 
 
 # Please note:
 
-**The nightly version does not have an official wiki, the main spruce wiki is specifically for the a30.**
+**The nightly version does not have an official wiki, the main spruce wiki is being updated currrently and so it is extremely useful for basic questions about the nightly builds**
 
 **There are often small differences such as pico8 needing the 'pico_64' file as well.**
 
@@ -89,6 +89,7 @@ Nightly builds help us:
 - Validate new features in real-world scenarios.
 - Get early feedback from developers and power users.
 - Accelerate the development cycle of our software.
+
 
 
 
