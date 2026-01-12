@@ -18,22 +18,24 @@
 
 **The nightly version does not have an official wiki, the main spruce wiki is being updated currrently and so it is extremely useful for basic questions about the nightly builds**
 
-**There are often small differences such as pico8 needing the 'pico_64' file as well.**
-
 🚨 **Warning** 🚨
 
-This repository is automatically generated as part of our nightly builds. It contains experimental and potentially unstable versions of our software.
+- This repository is automatically generated as part of our nightly builds. It contains experimental and potentially unstable versions of our software.
 
-As of May, 2025 these build are targeted towards the Miyoo A30, Miyoo Flip, Trimui Brick and Smart Pro. The same SD card can be used for all of these devices, simply swap the card over and it will work! 
+- As of January, 2026 these build are targeted towards the Miyoo A30, Miyoo Flip, Miyoo Mini Flip, Trimui Brick and Trimui Smart Pro, Trimui Smart Pro S.
 
-Interested in being a tester? To provide feedback and speak with the development team please join our Discord server by clicking on the image below or using [this link](https://discord.gg/KjR5uMQQt9)
+- The same SD card can be used for all of these devices, simply swap the card over and it will work! 
+
+- Interested in being a tester? To provide feedback and speak with the development team please join our Discord server by clicking on the image below or using [this link](https://discord.gg/KjR5uMQQt9)
 
 [![spruce logo](https://github.com/user-attachments/assets/ee3ce8fa-87f2-455a-adf6-c071f7ce4e7a)
 ](https://discord.gg/KjR5uMQQt9)
 
 ## **MIYOO FLIP USERS PLEASE USE [THIS](https://github.com/spruceUI/spruceOS/releases/download/flip0.0/miyoo355_fw.img) FIRMWARE**
 
-**IMPORTANT UPDATE** Sep. 19 2025: We have updated the suggested Miyoo FW version! It is now the same as that used by CarlOS. This allows you to switch between them without needing to update your FW.
+## **IMPORTANT UPDATE** Sep. 19 2025: We have updated the suggested Miyoo FW version!
+
+## **DEVICE FIRMWARE** All supported devices have a built in firmware updater app. Check the Apps Section to see if your device needs to be updated!
 
 ### To update FW on the Flip:
 - Copy and paste [this .img file](https://github.com/spruceUI/spruceOS/releases/download/flip0.0/miyoo355_fw.img) onto the root of a fat32 card (blank is best!).
@@ -99,6 +101,7 @@ Nightly builds help us:
 - Validate new features in real-world scenarios.
 - Get early feedback from developers and power users.
 - Accelerate the development cycle of our software.
+
 
 
 
