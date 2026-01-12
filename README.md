@@ -1,8 +1,18 @@
 # SpruceUI Nightly Repository
 
-**IMPORTANT UPDATE FOR DEVICES SUPPORTED**
+**IMPORTANT UPDATE FOR DEVICES SUPPORTED WITH NIGHTLY RELEASES**
 
-We are currently focusing on the Flip and A30 support for spruce 4.0 but wecare in active development for the Miyoo Mini Flip, Trimui Smart Pro, Brick and the new Smart Pro S! 
+
+| Device                | Support Status        |
+|-----------------------|--------------------|
+| Miyoo Flip            | In Active Development |
+| Miyoo A30             | In Active Development |
+| Miyoo Mini Flip       | In Active Development |
+| Trimui Smart Pro      | In Active Development |
+| Brick                 | In Active Development |
+| Smart Pro S           | In Active Development |
+
+
 
 # Please note:
 
@@ -89,6 +99,7 @@ Nightly builds help us:
 - Validate new features in real-world scenarios.
 - Get early feedback from developers and power users.
 - Accelerate the development cycle of our software.
+
 
 
 
