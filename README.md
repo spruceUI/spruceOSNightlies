@@ -72,6 +72,11 @@ Stock will show `20250627233124` listed unded "Device Info" in the Settings tab 
 6) Boot your device with this SD card inserted into the righthand slot if your using a Flip.
 7) Give it a few minutes and let it do its thing! When the installation is complete, you will land in spruceUI.
 
+## All In One Installer
+  - Download [The new Beta spruceOS Installer program](https://github.com/spruceUI/spruceOS-Installer/releases)
+  - Simply insert your SD card into your computer and run the program, be sure to select the correct drive!
+  - It formats your card, downloads the latest official spruce release, and installs it in one click!
+
 ## 🚡 Updating
 
 There are a couple of ways to update, OTA, EZ, and manually.
@@ -105,6 +110,7 @@ Nightly builds help us:
 - Validate new features in real-world scenarios.
 - Get early feedback from developers and power users.
 - Accelerate the development cycle of our software.
+
 
 
 
