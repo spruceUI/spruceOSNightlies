@@ -11,8 +11,8 @@
 | Miyoo Mini Plus       | In Active Development |
 | Miyoo Mini v1-4       | In Active Development |
 | Trimui Smart Pro      | In Active Development |
-| Brick                 | In Active Development |
-| Smart Pro S           | In Active Development |
+| Trimui Brick          | In Active Development |
+| Trimui Smart Pro S    | In Active Development |
 
 
 
@@ -112,6 +112,7 @@ Nightly builds help us:
 - Validate new features in real-world scenarios.
 - Get early feedback from developers and power users.
 - Accelerate the development cycle of our software.
+
 
 
 
