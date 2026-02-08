@@ -1,5 +1,19 @@
 # SpruceUI Nightly Repository
+___
 
+<img width="96" height="96" alt="icons8-stop-sign-96" src="https://github.com/user-attachments/assets/b4a84d6b-b062-40ae-8e69-42449d9880c3" />
+
+**STOP AND READ!**
+
+**THIS REPO IS FOR DEVELOPERS AND CONTAINS UNSTABLE BUILDS**
+
+**PLEASE USE RELEASES FROM OUR MAIN REPO**
+
+**https://github.com/spruceUI/spruceOS/releases/latest**
+
+<img width="96" height="96" alt="icons8-stop-sign-96" src="https://github.com/user-attachments/assets/ef9651ca-225e-4e3d-8511-a44bec1c7a89" />
+
+___
 **IMPORTANT UPDATE FOR DEVICES SUPPORTED WITH NIGHTLY RELEASES**
 
 
@@ -112,6 +126,7 @@ Nightly builds help us:
 - Validate new features in real-world scenarios.
 - Get early feedback from developers and power users.
 - Accelerate the development cycle of our software.
+
 
 
 
