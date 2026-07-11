@@ -27,6 +27,7 @@ ___
 | Trimui Smart Pro      | In Active Development |
 | Trimui Brick          | In Active Development |
 | Trimui Smart Pro S    | In Active Development |
+| Trimui Brick Pro      | In Active Development |
 
 
 
